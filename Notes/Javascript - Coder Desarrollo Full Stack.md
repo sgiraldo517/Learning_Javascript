@@ -1,6 +1,6 @@
-# DESARROLLO FULL STACK - JAVASCRIPT - CODER
+# Javascript - Coder: Desarrollo Full Stack
 
-- [DESARROLLO FULL STACK - JAVASCRIPT - CODER](#desarrollo-full-stack---javascript---coder)
+- [Javascript - Coder: Desarrollo Full Stack](#javascript---coder-desarrollo-full-stack)
   - [Clase 1](#clase-1)
     - [Aplicación Web](#aplicación-web)
     - [JavaScript](#javascript)

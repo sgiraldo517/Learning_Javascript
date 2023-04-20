@@ -1,7 +1,7 @@
 # Learning Javascript
 
 ## Notes
-1. [Coder - JavaScript Notes](Notes/Coder%20-%20Javascript.md)
+1. [Javascript - Coder Desarrollo Full Stack](Notes/Javascript%20-%20Coder%20Desarrollo%20Full%20Stack.md)
 
 ## Cool JavaScript Recources
 1. [Eloquent JavaScript](https://eloquentjs-es.thedojo.mx/) 
