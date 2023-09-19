@@ -1,0 +1,7 @@
+# Ignore all Archive folders
+Archive/
+
+# Ignore all obsidian directories
+.obsidian/
+
+
